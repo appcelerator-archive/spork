@@ -1,0 +1,36 @@
+{
+  "name": "tispork",
+  "preferGlobal": "true",
+  "version": "0.0.2",
+  "author": "Appcelerator <support@appcelerator.com>",
+  "description": "A utility for generating app icons, splash screens, and other assets for your Titanium program.",
+  "contributors": [ 
+    {
+      "name": "Carl Orthlieb",
+      "email": "corthlieb@appcelerator.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appcelerator/tispork.git"
+  },
+  "keywords": [
+    "cli",
+    "image",
+    "titanium",
+    "appcelerator"
+  ],
+  "dependencies" : {
+    "commander" : "1.0.x",
+    "assert" : "0.4.x",
+    "wrench" : "1.3.x",
+    "shelljs" : "0.0.x",
+  },
+  "noAnalyze": false,
+  "bundleDependencies": [
+  ],
+  "license": "Apache 2.0",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
