@@ -18,19 +18,27 @@
     "cli",
     "image",
     "titanium",
-    "appcelerator"
+    "appcelerator",
+    "ios",
+    "android",
+    "mobileweb"
   ],
+  "preferGlobal": true,
+  "bin": {
+    "tispork": "./bin/tispork.js"
+  },
+  "main": "main.js",
   "dependencies" : {
     "commander" : "1.0.x",
     "assert" : "0.4.x",
     "wrench" : "1.3.x",
-    "shelljs" : "0.0.x",
+    "shelljs" : "0.0.x"
   },
   "noAnalyze": false,
   "bundleDependencies": [
   ],
-  "license": "Apache 2.0",
+  "license": "Apache Public License v2",
   "engine": {
-    "node": ">=0.4"
+    "node": ">=0.4.0"
   }
 }
