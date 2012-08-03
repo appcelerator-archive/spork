@@ -45,6 +45,9 @@ You can run the spork utility from the command line using node.
     assets <project-dir> <assets-folder>
     Generate multiple resolutions of assets from high res assets. Assumes your assets are all in the <project-dir>/images/<asset-folder>.
 
+    backgrounds [options] <project-dir>,<bkgnd-folder>
+	Traverse the <project-dir>/images/<bkgnd-folder> directory and generate cropped and scaled background images appropriate to the device.
+
   Options:
 
     -h, --help       output usage information
@@ -53,6 +56,7 @@ You can run the spork utility from the command line using node.
     -i, --ios        Generate iOS (iPhone/iPad) assets
     -m, --mobileweb  Generate mobile web (HTML5) assets
     -d, --debug      For debugging, output all commands to the console.
+    
     -w, --width <n>  For assets command only, width in pixels of the smallest size of the image.
     -3, --three      For assets command and Android only, generate image at scale 3 in the 3:4:6:8 ratio, where 8 is the original size
     -4, --four       For assets command and Android only, generate image at scale 4 in the 3:4:6:8 ratio, where 8 is the original size
@@ -70,6 +74,10 @@ To Do
 
 Credits
 -------
+
+Main sporker: Carl Orthlieb
+
+Many thanks to the node community, the commander.js folks, and suggestions from Chris Barber, Rick Blalock, and the rest of the Appcelerator team.
 
 Legal
 ------
