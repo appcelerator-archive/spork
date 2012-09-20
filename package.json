@@ -1,7 +1,7 @@
 {
   "name": "tispork",
   "preferGlobal": "true",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Appcelerator <support@appcelerator.com>",
   "description": "A utility for generating app icons, splash screens, and other assets for your Titanium program.",
   "contributors": [ 
