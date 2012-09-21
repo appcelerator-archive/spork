@@ -1,7 +1,7 @@
 Spork
 =====
 
-Spork is a utility by [Appcelerator](http://www.appcelerator.com) for generating images in a variety of sizes for [Titanium](http://www.appcelerator.com/platform).
+[Spork](http://www.thinkgeek.com/product/8ace/?srp=2) is a utility by [Appcelerator](http://www.appcelerator.com) for generating images in a variety of sizes for [Titanium](http://www.appcelerator.com/platform).
 
 It provides convenient ways of generating application icons, splash screens, and images for things like buttons at a variety of sizes and resolutions to accomodate different platforms (iOS, Android, Mobile Web) from single sources. 
 
@@ -10,10 +10,17 @@ Note that Spork depends on having an install of the amazing utility [ImageMagick
 Current Status
 --------------
 
-| Date | Version | Status | Comments |
-| ---: | ------- | ------ | -------- |
-| 09/18/2012 | 0.0.4 | Unstable | Updated for iPhone 5 splash screen, added support for Titanium Alloy projects|
-| 08/02/2012 | 0.0.3 | Unstable | Initial release |
+[**UNSTABLE**]
+
+###Release Notes
+####0.0.4 (9/18/2012)
+* Updated for iPhone 5 splash screen. This will require you to redo your master splash screen and background images. Use the included PSD files as templates.
+* Added auto-detection for Ti Alloy projects
+* Added updated documentation on the naming and use of background images
+* Normalized the incoming project directory name so that it is more tolerant of missing slashes and the use of . for the current directory.
+
+####0.0.3 (8/2/2012)
+* Initial public release.
 
 Installation
 -------------
@@ -100,8 +107,7 @@ Here's a code snippet for Alloy-based Ti applications that will handle both the 
     		$.index.backgroundImage = getBackgroundImage('Mars');
 	});
 
-This would be something similar for regular Ti applications but you would need to determine tablet vs handheld via code instead.
-
+You would need similar code for regular Ti applications but you would need to determine tablet vs handheld via code instead.
 
 To Do
 -----

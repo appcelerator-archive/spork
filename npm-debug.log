@@ -1,0 +1,305 @@
+info it worked if it ends with ok
+verbose cli [ 'node', '/usr/local/bin/npm', 'install', '.', '-g' ]
+info using npm@1.1.16
+info using node@v0.6.15
+verbose config file /Users/corthlieb/.npmrc
+verbose config file /usr/local/etc/npmrc
+verbose config file /usr/local/lib/node_modules/npm/npmrc
+verbose cache add [ '.', null ]
+silly cache add: name, spec, args [ undefined, '.', [ '.', null ] ]
+verbose parsed url { pathname: '.', path: '.', href: '.' }
+verbose caching package.json
+verbose loadDefaults tispork@0.0.4
+verbose tar.pack [ '/var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/tmp.tgz',
+verbose tar.pack   '.' ]
+verbose tarball /var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/tmp.tgz
+verbose folder .
+verbose unpack /var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/tmp.tgz
+silly gunzTarPerm modes [ '755', '644' ]
+silly extracting entry package.json
+silly extracting entry .npmignore
+silly extracting entry README.md
+silly extracting entry .project
+silly extracting entry bin/tispork.js
+silly extracting entry images/AppIcon.psd
+silly extracting entry images/Landscape.psd
+silly extracting entry images/Portrait.psd
+silly extracting entry lib/execplus.js
+silly extracting entry lib/main.js
+verbose caching /var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/package/package.json
+verbose loadDefaults tispork@0.0.4
+verbose from cache /var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/package/package.json
+verbose tar.pack [ '/Users/corthlieb/.npm/tispork/0.0.4/package.tgz',
+verbose tar.pack   '/var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/package' ]
+verbose tarball /Users/corthlieb/.npm/tispork/0.0.4/package.tgz
+verbose folder /var/folders/84/9yl_b4vx7wv5748sxvy56qdh0000gp/T/npm-1348180660576/1348180660576-0.8250603971537203/package
+verbose unpack /Users/corthlieb/.npm/tispork/0.0.4/package.tgz
+silly gunzTarPerm modes [ '755', '644' ]
+silly extracting entry package.json
+silly extracting entry .npmignore
+silly extracting entry README.md
+silly extracting entry .project
+silly extracting entry bin/tispork.js
+silly extracting entry images/AppIcon.psd
+silly extracting entry images/Landscape.psd
+silly extracting entry images/Portrait.psd
+silly extracting entry lib/execplus.js
+silly extracting entry lib/main.js
+verbose caching /Users/corthlieb/.npm/tispork/0.0.4/package/package.json
+verbose loadDefaults tispork@0.0.4
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 40960
+silly updated sha bytes 10091
+info shasum c97d7f85c4b3f7d26a827d178b17b3edb229310e
+info shasum /Users/corthlieb/.npm/tispork/0.0.4/package.tgz
+verbose from cache /Users/corthlieb/.npm/tispork/0.0.4/package/package.json
+verbose chmod /Users/corthlieb/.npm/tispork/0.0.4/package.tgz 644
+verbose chown [ '/Users/corthlieb/.npm/tispork/0.0.4/package.tgz', 502, 20 ]
+silly resolved [ { name: 'tispork',
+silly resolved     preferGlobal: true,
+silly resolved     version: '0.0.4',
+silly resolved     author: { name: 'Appcelerator', email: 'support@appcelerator.com' },
+silly resolved     description: 'A utility for generating app icons, splash screens, and other assets for your Titanium program.',
+silly resolved     contributors: [ { name: 'Carl Orthlieb', email: 'corthlieb@appcelerator.com' } ],
+silly resolved     repository: { type: 'git', url: 'git://github.com/appcelerator/spork.git' },
+silly resolved     keywords: 
+silly resolved      [ 'cli',
+silly resolved        'image',
+silly resolved        'titanium',
+silly resolved        'appcelerator',
+silly resolved        'ios',
+silly resolved        'android',
+silly resolved        'mobileweb' ],
+silly resolved     bin: { tispork: './bin/tispork.js' },
+silly resolved     main: 'main.js',
+silly resolved     dependencies: 
+silly resolved      { commander: '1.0.x',
+silly resolved        assert: '0.4.x',
+silly resolved        wrench: '1.3.x',
+silly resolved        shelljs: '0.0.x' },
+silly resolved     noAnalyze: false,
+silly resolved     bundleDependencies: [],
+silly resolved     license: 'Apache Public License v2',
+silly resolved     engine: { node: '>=0.4.0' },
+silly resolved     _npmUser: { name: 'orthlieb', email: 'npm@orthlieb.com' },
+silly resolved     _id: 'tispork@0.0.4',
+silly resolved     devDependencies: {},
+silly resolved     optionalDependencies: {},
+silly resolved     engines: { node: '*' },
+silly resolved     _engineSupported: true,
+silly resolved     _npmVersion: '1.1.16',
+silly resolved     _nodeVersion: 'v0.6.15',
+silly resolved     _defaultsLoaded: true,
+silly resolved     dist: { shasum: 'c97d7f85c4b3f7d26a827d178b17b3edb229310e' },
+silly resolved     _from: '.' } ]
+info into /usr/local/lib tispork@0.0.4
+info installOne tispork@0.0.4
+verbose from cache /Users/corthlieb/.npm/tispork/0.0.4/package/package.json
+info unbuild /usr/local/lib/node_modules/tispork
+verbose caching /usr/local/lib/node_modules/tispork/package.json
+info preuninstall tispork@0.0.4
+info uninstall tispork@0.0.4
+verbose unbuild tispork@0.0.4 [ true,
+verbose unbuild tispork@0.0.4   '/usr/local/lib/node_modules',
+verbose unbuild tispork@0.0.4   '/usr/local/lib/node_modules' ]
+verbose binRoot [ '/usr/local/bin', { tispork: './bin/tispork.js' } ]
+info unbuild /usr/local/lib/node_modules/tispork
+verbose caching /usr/local/lib/node_modules/tispork/package.json
+info preuninstall tispork@0.0.4
+info uninstall tispork@0.0.4
+verbose unbuild tispork@0.0.4 [ true,
+verbose unbuild tispork@0.0.4   '/usr/local/lib/node_modules',
+verbose unbuild tispork@0.0.4   '/usr/local/lib/node_modules' ]
+verbose binRoot [ '/usr/local/bin', { tispork: './bin/tispork.js' } ]
+ERR! error rolling back tispork@0.0.4 Error: EPERM, chmod '/usr/local/bin/tispork'
+ERR! Error: EPERM, chmod '/usr/local/bin/tispork'
+ERR! 
+ERR! Please try running this command again as root/Administrator.
+ERR! 
+ERR! System Darwin 11.4.0
+ERR! command "node" "/usr/local/bin/npm" "install" "." "-g"
+ERR! cwd /Users/corthlieb/Dropbox/Dev/tispork
+ERR! node -v v0.6.15
+ERR! npm -v 1.1.16
+ERR! path /usr/local/bin/tispork
+ERR! code EPERM
+ERR! message EPERM, chmod '/usr/local/bin/tispork'
+ERR! errno {}
+verbose exit [ 1, true ]
