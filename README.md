@@ -1,7 +1,9 @@
-Spork
-=====
+Titanium Spork
+==============
 
-[Spork](http://www.thinkgeek.com/product/8ace/?srp=2) is a utility by [Appcelerator](http://www.appcelerator.com) for generating images in a variety of sizes for [Titanium](http://www.appcelerator.com/platform).
+![spork](images/Spork.jpg)
+
+[Spork](http://www.thinkgeek.com/product/8ace/?srp=2) is a utility by [Appcelerator](http://www.appcelerator.com) for generating images in a variety of sizes for [Titanium](http://www.appcelerator.com/platform) and Titanium Alloy applications.
 
 It provides convenient ways of generating application icons, splash screens, and images for things like buttons at a variety of sizes and resolutions to accomodate different platforms (iOS, Android, Mobile Web) from single sources. 
 
@@ -124,5 +126,5 @@ Legal
 ------
 
 Spork is developed by Appcelerator and the community and is Copyright (c) 2012 by Appcelerator, Inc. All Rights Reserved.
-Alloy is made available under the Apache Public License, version 2.  See the [LICENSE](https://github.com/appcelerator/alloy/blob/master/LICENSE) file for more information.
+Sporkk is made available under the Apache Public License, version 2.  See the [LICENSE](https://github.com/appcelerator/alloy/blob/master/LICENSE) file for more information.
 
